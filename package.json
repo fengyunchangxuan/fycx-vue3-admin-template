@@ -1,0 +1,15 @@
+{
+  "name": "{{name}}",
+  "version": "1.0.0",
+  "description": "{{description}}",
+  "author": "{{author}}",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build"
+  },
+  "keywords": [
+    "vue3+pinia+sass+element-plus+axios+vue-router"
+  ],
+  "license": "ISC"
+}
